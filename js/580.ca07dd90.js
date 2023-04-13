@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk_7_6_vue_router"]=self["webpackChunk_7_6_vue_router"]||[]).push([[580],{4580:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var u=r(3396);const t={class:"phone"},a=(0,u._)("h1",null,"MacPage",-1),c=[a];function s(e,n,r,a,s,_){return(0,u.wg)(),(0,u.iD)("div",t,c)}var _={name:"MacView"},o=r(89);const i=(0,o.Z)(_,[["render",s]]);var f=i}}]);
+//# sourceMappingURL=580.ca07dd90.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk_7_6_vue_router"]=self["webpackChunk_7_6_vue_router"]||[]).push([[626],{1626:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var u=r(3396);const t={class:"phone"},a=(0,u._)("h1",null,"WatchPage",-1),c=[a];function s(e,n,r,a,s,_){return(0,u.wg)(),(0,u.iD)("div",t,c)}var _={name:"WatchView"},o=r(89);const h=(0,o.Z)(_,[["render",s]]);var i=h}}]);
+//# sourceMappingURL=626.2085a1d2.js.map

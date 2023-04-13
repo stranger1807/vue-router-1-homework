@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk_7_6_vue_router"]=self["webpackChunk_7_6_vue_router"]||[]).push([[461],{4461:function(e,n,r){r.r(n),r.d(n,{default:function(){return h}});var u=r(3396);const t={class:"phone"},o=(0,u._)("h1",null,"iPhonePage",-1),a=[o];function c(e,n,r,o,c,s){return(0,u.wg)(),(0,u.iD)("div",t,a)}var s={name:"IphoneView"},_=r(89);const i=(0,_.Z)(s,[["render",c]]);var h=i}}]);
+//# sourceMappingURL=461.1fbd0026.js.map

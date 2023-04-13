@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk_7_6_vue_router"]=self["webpackChunk_7_6_vue_router"]||[]).push([[288],{1288:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var r=u(3396);const t={class:"phone"},a=(0,r._)("h1",null,"SamsungPage",-1),s=[a];function c(e,n,u,a,c,_){return(0,r.wg)(),(0,r.iD)("div",t,s)}var _={name:"SamsungView"},o=u(89);const i=(0,o.Z)(_,[["render",c]]);var f=i}}]);
+//# sourceMappingURL=288.d10f234e.js.map
